@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">ScoopME</string>
-    <string name="offerride">Offer</string>
-    <string name="reqride">Request</string>
-    <string name="shedride">Schedule Carpool</string>
-    <string name="profile">Profile</string>
-    <string name="profileName">%s</string>
-</resources>
